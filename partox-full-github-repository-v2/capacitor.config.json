@@ -1,0 +1,6 @@
+{
+  "appId": "ir.partox.story",
+  "appName": "Partox Story",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
